@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Movie2</string>
+    <string name="send_loginpage">Go to Login</string>
+</resources>
